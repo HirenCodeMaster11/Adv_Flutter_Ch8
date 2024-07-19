@@ -9,6 +9,8 @@
 <a href="https://github.com/HirenCodeMaster11/Adv_Flutter_Ch8/blob/master/lib/Json%20Parsing/View/home.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
 
+```basic process of parsing JSON data that contains a list of maps and iterating over the list to access individual elements. You can adapt this approach to fit more complex JSON structures as needed.```
+
 <h2 align="center">2. JSON Parsing </h2>
 
 <div align="center">
@@ -17,3 +19,5 @@
 <div align="center">
 <a href="https://github.com/HirenCodeMaster11/Adv_Flutter_Ch8/blob/master/lib/Json%20Parsing%202/View/UserPage.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
+
+```basic process of parsing JSON data that contains a list of maps and iterating over the list to access individual elements. You can adapt this approach to fit more complex JSON structures as needed.```
