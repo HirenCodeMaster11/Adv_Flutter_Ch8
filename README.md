@@ -8,3 +8,12 @@
 <div align="center">
 <a href="https://github.com/HirenCodeMaster11/Adv_Flutter_Ch8/blob/master/lib/Json%20Parsing/View/home.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
+
+<h2 align="center">2. JSON Parsing </h2>
+
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/fbeb7e96-a35b-4f9e-8956-ff6007eda7ef" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/Adv_Flutter_Ch8/blob/master/lib/Json%20Parsing%202/View/UserPage.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
