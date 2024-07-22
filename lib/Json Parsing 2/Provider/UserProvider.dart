@@ -9,7 +9,7 @@ class UserProvider extends ChangeNotifier {
 
   Future<void> jsonParsing() async {
     String json = await rootBundle.loadString('assets/json/User.json');
-    List users= jsonDecode(json);
+    List users = jsonDecode(json);
 
     userData = users.map((e) => Usermodal.fromJson(e),).toList();
     notifyListeners();
