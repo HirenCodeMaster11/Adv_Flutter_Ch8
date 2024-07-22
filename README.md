@@ -21,3 +21,15 @@
 </div>
 
 ```basic process of parsing JSON data that contains a list of maps and iterating over the list to access individual elements. You can adapt this approach to fit more complex JSON structures as needed.```
+
+
+<h2 align="center">3. JSON Parsing With Map of List</h2>
+
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/df6aaaab-acdd-4dc2-bef5-1660107fee3e" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/Adv_Flutter_Ch8/blob/master/lib/JsonParsing%20With%20Map%20of%20List/View/Post%20Page.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+```basic process of parsing JSON data that contains a list of maps and iterating over the list to access individual elements. You can adapt this approach to fit more complex JSON structures as needed.```
